@@ -86,4 +86,4 @@ Software Developer Co‑op (Full‑Stack, Frontend, or Backend)
 
 ## 📫 Contact
 📧 **btraviss1987@gmail.com**  
-🔗 **LinkedIn:** linkedin.com/in/brandon-traviss-57aa34369
+🔗 **LinkedIn:** https://www.linkedin.com/in/brandon-traviss-57aa34369
