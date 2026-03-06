@@ -9,7 +9,7 @@ I'm a Computer Programming student with strong full‑stack foundations and hand
 
 **Languages:** JavaScript, PHP, C#, Python, Java  
 **Frontend:** React, Vite, Tailwind, HTML, CSS  
-**Backend:** Node.js, Express, ASP.NET Core, REST APIs  
+**Backend:** Node.js, Express, ASP.NET Core, RESTful APIs  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git, GitHub, Postman, VS Code, Azure, Figma  
 **Other:** JWT Auth, MVC Architecture, Database Modeling
@@ -27,7 +27,7 @@ I'm a Computer Programming student with strong full‑stack foundations and hand
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=fff)
-![REST API](https://img.shields.io/badge/REST_API-02569B?logo=api&logoColor=fff)
+![REST API](https://img.shields.io/badge/RESTful_API-02569B?logo=api&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
