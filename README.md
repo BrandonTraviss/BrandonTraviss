@@ -67,12 +67,6 @@ A browser‑based top‑down shooter built with Phaser3.
 
 ---
 
-## 📸 SnippetSave Preview
-<img width="1909" height="913" alt="{4EA0496C-5207-43DF-91DE-B84D56D58123}" src="https://github.com/user-attachments/assets/858b7ddc-3dc3-43d4-a8fb-d4b707d73ab1" />
-
-
----
-
 ## 🎓 Education
 **Computer Programming (Diploma)**  
 Georgian College — 4.0 GPA
