@@ -73,11 +73,6 @@ Georgian College — 4.0 GPA
 
 ---
 
-## 🎯 Currently Seeking
-Software Developer Co‑op (Full‑Stack, Frontend, or Backend)
-
----
-
 ## 📫 Contact
 📧 **Email:** **btraviss1987@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/brandon-traviss-57aa34369
